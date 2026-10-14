@@ -70,6 +70,3 @@ Hasil unduhan disimpan di folder Downloads. Gambar dan video mp4 masuk ke subfol
 
 Proyek ini dibuat untuk keperluan pribadi dan edukasi. Konten di Pinterest dilindungi hak cipta milik pembuat aslinya. Gunakan hanya untuk konten milik sendiri atau yang kamu punya izin untuk menyimpannya, dan patuhi [Ketentuan Layanan Pinterest](https://policy.pinterest.com/terms-of-service). Proyek ini tidak berafiliasi dengan Pinterest.
 
-## Lisensi
-
-[MIT](LICENSE)

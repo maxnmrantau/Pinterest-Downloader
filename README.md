@@ -18,7 +18,7 @@ Ekstensi ini belum ada di Chrome Web Store, jadi dipasang secara manual:
 
 1. Unduh repo ini (**Code → Download ZIP**) lalu ekstrak, atau clone:
    ```bash
-   git clone https://github.com/maxnmrantau/pinterest-downloader.git
+   git clone https://github.com/maxnmrantau/Pinterest-Downloader.git
    ```
 2. Buka `chrome://extensions` di Chrome (atau browser berbasis Chromium seperti Edge dan Brave).
 3. Aktifkan **Developer mode** di pojok kanan atas.
